@@ -1,2 +1,2 @@
 # Testing
-ChatGPT made this not malware just opens cmd 100 times
+ChatGPT made this It's a Trojan

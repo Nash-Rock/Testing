@@ -1,4 +1,2 @@
 # Testing
-CHATGPT Malware
-
-# DO NOT DOWNLOAD THIS IT IS A TEST!!
+ChatGPT made this not malware just opens cmd 100 times
